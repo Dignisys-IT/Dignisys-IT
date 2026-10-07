@@ -1,19 +1,13 @@
 <div align="center">
 
-<!-- BORDER & HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:0078D4,100:00C853&height=220&section=header&text=Dignisys%20IT&fontSize=50&fontColor=ffffff&desc=Digital%20Transformation%20%7C%20Full-Stack%20%7C%20Cloud%20DevOps&descSize=18" width="100%" alt="Dignisys IT Header Banner"/>
-
-<br/>
-
-### 🌟 Enterprise Software & Web Development Agency
+# 🚀 Dignisys IT
+### Enterprise Software Development & Digital Transformation
 
 [![Website Badge](https://img.shields.io/badge/Website-digital.dignisys.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digital.dignisys.com/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Dignisys%20Digital-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dignisysdigital)
 [![X Badge](https://img.shields.io/badge/X-@DignisysDigital-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DignisysDigital)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Dignisys%20Digital-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dignisysdigital/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@dignisysdigital-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dignisysdigital/)
-
-<br/>
 
 </div>
 
@@ -116,8 +110,6 @@ We specialize in designing and engineering high-availability web applications, a
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0:00C853,100:0078D4&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 <sub>© 2026 Dignisys Digital. All rights reserved.</sub>
 
