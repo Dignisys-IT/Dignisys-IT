@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Let's build the future together">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071323"/><stop offset="1" stop-color="#14233B"/></linearGradient><linearGradient id="stripe"><stop stop-color="#31E1D1"/><stop offset="1" stop-color="#777CFF"/></linearGradient></defs>
+<rect width="1200" height="180" rx="18" fill="url(#bg)"/>
+<path d="M0 2 H1200" stroke="url(#stripe)" stroke-width="4"/>
+<circle cx="1040" cy="90" r="68" fill="none" stroke="#3BE5DA" stroke-opacity=".25" stroke-width="1.5"><animate attributeName="r" values="50;72;50" dur="5s" repeatCount="indefinite"/></circle>
+<circle cx="1040" cy="90" r="43" fill="none" stroke="#747FFF" stroke-opacity=".45"/>
+<text x="52" y="76" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="38">LET'S BUILD SOMETHING</text>
+<text x="52" y="122" fill="#51E6E1" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="38">EXTRAORDINARY.</text>
+<text x="53" y="151" fill="#92AEC6" font-family="monospace" font-size="14">digital.dignisys.com  /  DIGNISYS IT © 2026</text>
+</svg>
