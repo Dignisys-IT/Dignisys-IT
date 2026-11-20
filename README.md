@@ -20,7 +20,7 @@
 
 ---
 
-## // THE DIGNISYS DIFFERENCE
+## THE DIGNISYS DIFFERENCE
 
 <table>
 <tr>
@@ -33,7 +33,7 @@
 
 Dignisys IT is a software engineering and digital transformation company building high-performance experiences and dependable infrastructure. We combine **modern product design, full-stack engineering, security, performance, and technical SEO** to help businesses grow.
 
-## // WHAT WE BUILD
+## WHAT WE BUILD
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ Containerized services, secure configurations, release automation and production
 </tr>
 </table>
 
-## // OUR TECHNOLOGY DNA
+## OUR TECHNOLOGY DNA
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Containerized services, secure configurations, release automation and production
 
 </div>
 
-## // HOW WE SHIP
+## HOW WE SHIP
 
 ```mermaid
 flowchart LR
@@ -116,7 +116,7 @@ flowchart LR
 
 > **The goal isn't just to ship software. It's to create technology that keeps delivering value.**
 
-## // OUR ENGINEERING VALUES
+## OUR ENGINEERING VALUES
 
 - **Performance from day one** — speed, rendering strategy and Core Web Vitals.
 - **Security by design** — authentication, permissions and responsible infrastructure.
