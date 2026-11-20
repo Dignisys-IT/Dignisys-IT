@@ -1,143 +1,105 @@
 <div align="center">
 
-<img src="./assets/dignisys-hero.svg" alt="Dignisys IT — Engineering What's Next" width="100%" />
-
-<br/>
-
-<a href="https://digital.dignisys.com/"><img src="https://img.shields.io/badge/EXPLORE%20DIGNISYS-071B31?style=for-the-badge&logo=googlechrome&logoColor=41E9DE" alt="Website" /></a>
-<a href="https://www.linkedin.com/company/dignisysdigital"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/dignisysdigital/"><img src="https://img.shields.io/badge/BEHIND%20THE%20SCENES-D62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://dignisys.com/"><img src="./assets/brand-logo.svg" width="245" alt="Dignisys official logo" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=650&size=20&duration=3000&pause=900&color=32DCCC&center=true&vCenter=true&width=800&height=42&lines=Engineering+what%27s+next.;From+first+idea+to+global+scale.;Beautiful+interfaces.+Powerful+systems.;Built+for+people.+Designed+for+growth." alt="Animated headline" />
-
-<br/>
-
-**We turn complex business challenges into elegant, scalable digital products.**
-
-</div>
-
----
-
-## THE DIGNISYS DIFFERENCE
-
-<table>
-<tr>
-<td width="25%" align="center"><strong>01 — THINK</strong><br/><sub>Product-led strategy</sub></td>
-<td width="25%" align="center"><strong>02 — DESIGN</strong><br/><sub>Interfaces that connect</sub></td>
-<td width="25%" align="center"><strong>03 — ENGINEER</strong><br/><sub>Systems built to last</sub></td>
-<td width="25%" align="center"><strong>04 — EVOLVE</strong><br/><sub>Continuous optimization</sub></td>
-</tr>
-</table>
-
-Dignisys IT is a software engineering and digital transformation company building high-performance experiences and dependable infrastructure. We combine **modern product design, full-stack engineering, security, performance, and technical SEO** to help businesses grow.
-
-## WHAT WE BUILD
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Digital Products
-**Websites · Web applications · Digital experiences**
-
-Next.js, React, TypeScript and Tailwind CSS.
-
-High-performance interfaces, responsive design, accessible experiences and search-friendly delivery.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Enterprise Systems
-**SaaS · HRM · Dashboards · Admin portals**
-
-Modular applications, role-based authorization, operational workflows, and management platforms.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Backend & APIs
-**Business logic · Integrations · Data architecture**
-
-Node.js, Express, REST APIs, PostgreSQL and MongoDB.
-
-Maintainable service layers designed for reliable business operations.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Cloud & Delivery
-**Docker · Nginx · CI/CD · Deployment**
-
-Containerized services, secure configurations, release automation and production-focused infrastructure.
-
-</td>
-</tr>
-</table>
-
-## OUR TECHNOLOGY DNA
-
-<div align="center">
-
-**FRONTEND / EXPERIENCE**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=dark" alt="Next.js React TypeScript JavaScript HTML CSS Tailwind" />
-
-<br/>
-
-**BACKEND / DATA**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" alt="Node.js Express PostgreSQL MongoDB" />
-
-<br/>
-
-**INFRASTRUCTURE / WORKFLOW**
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,github,githubactions,vercel,vscode&theme=dark" alt="Docker Nginx GitHub Actions Vercel VS Code" />
-
-</div>
-
-## HOW WE SHIP
-
-```mermaid
-flowchart LR
-    A["01 · Discover"] --> B["02 · Design"]
-    B --> C["03 · Engineer"]
-    C --> D["04 · Validate"]
-    D --> E["05 · Deploy"]
-    E --> F["06 · Optimize"]
-    F -.-> A
-    classDef active fill:#0C2238,stroke:#23D7D4,color:#EAFBFF,stroke-width:2px;
-    class A,B,C,D,E,F active;
-```
-
-> **The goal isn't just to ship software. It's to create technology that keeps delivering value.**
-
-## OUR ENGINEERING VALUES
-
-- **Performance from day one** — speed, rendering strategy and Core Web Vitals.
-- **Security by design** — authentication, permissions and responsible infrastructure.
-- **Clean architecture** — modular code, maintainable services and scalable foundations.
-- **Quality through iteration** — testing, reviews, monitoring and continuous delivery.
-- **Business-first outcomes** — digital solutions built around real user needs.
-
----
-
-<div align="center">
-
-<img src="./assets/dignisys-footer.svg" alt="Let's build something extraordinary" width="100%" />
-
-<br/>
-
-<a href="https://digital.dignisys.com/"><img src="https://img.shields.io/badge/START%20A%20PROJECT-19C9D1?style=for-the-badge&logo=googlechrome&logoColor=06111F" alt="Start a project" /></a>
-<a href="https://www.linkedin.com/company/dignisysdigital"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/DignisysDigital"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://www.facebook.com/dignisysdigital/"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<img src="./assets/brand-hero-v3.svg" width="100%" alt="Dignisys — Built for scale. Designed for impact." />
 
 <br/><br/>
-<sub>© 2026 Dignisys Digital · Engineering what's next.</sub>
+
+<a href="https://dignisys.com/"><img src="https://img.shields.io/badge/OUR%20WEBSITE-FF4C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Dignisys website"/></a>
+<a href="https://www.linkedin.com/company/dignisysdigital"><img src="https://img.shields.io/badge/LINKEDIN-242427?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/dignisysdigital/"><img src="https://img.shields.io/badge/INSTAGRAM-242427?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=21&duration=3300&pause=1000&color=FF4C00&center=true&vCenter=true&width=790&height=48&lines=Engineering+digital+experiences.;Intelligent+technology.+Lasting+impact.;Building+reliable+systems+for+tomorrow." alt="Animated Dignisys engineering statement"/>
+
+</div>
+
+<br/>
+
+## What we believe
+
+> Technology should do more than work. It should solve real problems, support ambitious teams, and create measurable business impact.
+
+**Dignisys** brings together software engineering, digital product design, infrastructure and growth strategy. We turn ideas and complex business requirements into dependable web platforms, business applications, and modern digital experiences.
+
+<div align="center">
+<img src="./assets/capabilities-v3.svg" width="100%" alt="Dignisys software engineering, product design, cloud and digital growth services"/>
+</div>
+
+<br/>
+
+## Our capabilities
+
+| 01 — SOFTWARE ENGINEERING | 02 — PRODUCT EXPERIENCE |
+|:--|:--|
+| **Enterprise software, web apps & APIs.** From responsive websites to scalable SaaS platforms, management dashboards, integrations, and data-driven systems. | **UI/UX and digital product design.** Research-led user journeys, design systems, responsive interfaces, prototyping, and intuitive workflows. |
+| **03 — CLOUD & DELIVERY** | **04 — DIGITAL GROWTH** |
+| **Cloud, DevOps & performance.** Secure deployments, infrastructure automation, containerization, testing, and performance engineering. | **SEO, digital marketing & optimization.** Technical SEO, search-ready architecture, analytics and conversion-focused improvements. |
+
+<br/>
+
+## Technologies behind our work
+
+<div align="center">
+
+**FRONTEND & EXPERIENCE**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=light" alt="Next.js React TypeScript JavaScript HTML CSS Tailwind"/>
+
+<br/><br/>
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb&theme=light" alt="Node.js Express Python FastAPI PostgreSQL MongoDB"/>
+
+<br/><br/>
+
+**CLOUD, DEVOPS & PRODUCT**
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,github,githubactions,vercel,figma&theme=light" alt="Docker Nginx GitHub GitHub Actions Vercel Figma"/>
+
+</div>
+
+<br/>
+
+## How we work
+
+<div align="center">
+<img src="./assets/process-v3.svg" width="100%" alt="Discover, architect, engineer, validate and scale"/>
+</div>
+
+Our delivery approach is grounded in business understanding, purposeful architecture, clean engineering, structured validation, and continuous improvement.
+
+<br/>
+
+## What matters to us
+
+**Clarity over complexity.** Systems should be understandable, maintainable and useful.
+
+**Performance by design.** Fast interfaces, resilient services and production-ready delivery.
+
+**Security as a foundation.** Thoughtful authentication, access controls and infrastructure practices.
+
+**Business outcomes first.** Every design and engineering decision should serve a real need.
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/contact-v3.svg" width="100%" alt="Let's build what comes next — Dignisys"/>
+
+<br/>
+
+<a href="https://dignisys.com/"><img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER-FF4C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Start a conversation"/></a>
+<a href="https://www.linkedin.com/company/dignisysdigital"><img src="https://img.shields.io/badge/LINKEDIN-252528?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/dignisysdigital/"><img src="https://img.shields.io/badge/FACEBOOK-252528?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+<a href="https://x.com/DignisysDigital"><img src="https://img.shields.io/badge/X-252528?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+
+<br/><br/>
+<sub>© 2026 Dignisys Digital · Built for scale. Designed for impact.</sub>
 
 </div>
