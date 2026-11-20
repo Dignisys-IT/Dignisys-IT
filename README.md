@@ -1,113 +1,142 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=34&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Dignisys+IT;Engineering+Digital+Experiences;Building+Scalable+Enterprise+Solutions" alt="Animated Dignisys IT heading" />
+<img width="100%" src="./assets/dignisys-hero.svg" alt="Dignisys IT — Build Beyond Boundaries" />
 
-### Enterprise Software Development · Digital Transformation · Cloud Engineering
+<a href="https://digital.dignisys.com/"><img src="https://img.shields.io/badge/EXPLORE_OUR_WEBSITE-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=06111F" /></a>
+<a href="https://www.linkedin.com/company/dignisysdigital"><img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/dignisysdigital/"><img src="https://img.shields.io/badge/BEHIND_THE_SCENES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-**From ideas to production-ready digital products.**
+<br/><br/>
 
-[![Website](https://img.shields.io/badge/Explore_Our_Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digital.dignisys.com/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dignisysdigital)
-[![Email](https://img.shields.io/badge/Visit_Our_Contact_Page-0891B2?style=for-the-badge&logo=maildotru&logoColor=white)](https://digital.dignisys.com/)
-
-![Profile views](https://komarev.com/ghpvc/?username=DignisysDigital&style=flat-square&color=0ea5e9&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=650&color=22D3EE&center=true&vCenter=true&width=850&lines=We+build+what's+next.;Design.+Develop.+Deploy.+Scale.;Enterprise-grade+engineering%2C+without+compromise.;Turning+ambitious+ideas+into+digital+reality." alt="Animated engineering messages" />
 
 </div>
 
----
+## `>_` WHO WE ARE
 
-## ✨ Who We Are
+**Dignisys IT** engineers digital products for ambitious businesses — from beautiful customer experiences to reliable enterprise infrastructure. We bring **product thinking, scalable architecture, performance and security** into every stage of delivery.
 
-At **Dignisys IT**, we design, develop, and optimize modern digital platforms for businesses. Our work spans enterprise web applications, intuitive dashboards, reliable API services, and performance-focused digital experiences.
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%"><h3>⚡</h3><b>FAST</b><br/><sub>Performance-first</sub></td>
+<td align="center" width="25%"><h3>🧩</h3><b>SCALABLE</b><br/><sub>Built to grow</sub></td>
+<td align="center" width="25%"><h3>🛡️</h3><b>SECURE</b><br/><sub>Security by design</sub></td>
+<td align="center" width="25%"><h3>🚀</h3><b>FUTURE-READY</b><br/><sub>Modern architecture</sub></td>
+</tr>
+</table>
+</div>
 
-> **Our approach:** Build for today. Architect for tomorrow. Improve continuously.
+## `01 /` WHAT WE CREATE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 What We Build
-- 🌐 **Web Applications** — responsive, accessible, scalable experiences
-- 📊 **Enterprise Platforms** — SaaS portals, dashboards, and HRM solutions
-- 🔗 **APIs & Integrations** — maintainable REST services and workflows
-- ☁️ **Cloud & DevOps** — deployment pipelines and infrastructure
+### 🌐 Digital Experiences
+**High-performance websites & web apps**
+
+Next.js · React · TypeScript · Tailwind CSS
+
+Modern interfaces, responsive experiences, SEO-friendly rendering and accessible design.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 What We Prioritize
-- ⚡ **Performance** — fast, efficient user experiences
-- 🔐 **Security** — sound authentication and data practices
-- 🧩 **Maintainability** — modular architecture and clean code
-- 🔎 **Discoverability** — technical SEO and search-friendly rendering
+### 🏢 Enterprise Platforms
+**Dashboards, SaaS & HRM systems**
+
+Admin portals · Role-based access · Workflows
+
+Complex business operations, simplified into intuitive digital products.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 APIs & Data
+**Reliable backend foundations**
+
+Node.js · Express · REST APIs · PostgreSQL · MongoDB
+
+Maintainable integrations, dependable data flows and modular services.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & Delivery
+**Infrastructure built for production**
+
+Docker · Nginx · GitHub Actions · CI/CD
+
+Repeatable deployments, secure configurations and streamlined release pipelines.
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Our Technology Toolbox
+## `02 /` OUR ENGINEERING TOOLKIT
 
 <div align="center">
 
-**Frontend & Languages**
+**THE FRONTEND LAB**
 
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&perline=7)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=dark" alt="Frontend technology icons" />
 
-**Backend & Databases**
+**BACKEND & DATA**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&perline=7)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark" alt="Backend technology icons" />
 
-**Infrastructure & Workflow**
+**SHIP & SCALE**
 
-[![Infrastructure](https://skillicons.dev/icons?i=docker,nginx,github,githubactions,vercel,vscode&perline=7)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=docker,nginx,github,githubactions,vercel,vscode&theme=dark" alt="DevOps technology icons" />
 
 </div>
 
----
+## `03 /` FROM IDEA TO IMPACT
 
-## 🚀 How We Deliver
+<div align="center">
 
 ```mermaid
 flowchart LR
-    A[Discover] --> B[Design]
-    B --> C[Develop]
-    C --> D[Test]
-    D --> E[Deploy]
-    E --> F[Optimize]
-    F -. Feedback .-> A
+    A[🔎 Discover] --> B[🎨 Design]
+    B --> C[💻 Engineer]
+    C --> D[🧪 Validate]
+    D --> E[🚀 Launch]
+    E --> F[📈 Optimize]
+    F -.-> A
+    classDef step fill:#0b2237,stroke:#00d9ff,color:#eafaff,stroke-width:1px;
+    class A,B,C,D,E,F step;
 ```
 
-We focus on thoughtful architecture, practical engineering, automated delivery, and ongoing improvements after launch.
-
----
-
-## 📈 Engineering in Motion
-
-<div align="center">
-
-<!-- Replace YOUR_GITHUB_ORG with the actual GitHub organization username to enable these dynamic cards. -->
-<!--
-![GitHub Organization Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ORG&show_icons=true&theme=tokyonight&hide_border=true)
--->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:06b6d4&height=115&section=footer" width="100%" alt="Decorative animated-style footer wave" />
+<sub>Thoughtful strategy. Clean execution. Continuous improvement.</sub>
 
 </div>
 
-## 🌍 Let's Connect
+## `04 /` OUR ENGINEERING PRINCIPLES
+
+> **Build for people. Architect for scale. Deliver with confidence.**
+
+- **Performance is a feature** — optimized experiences, efficient APIs and fast delivery.
+- **Security is foundational** — responsible authentication, access control and infrastructure practices.
+- **Quality is continuous** — clear code, testing, reviews and automation.
+- **Discoverability matters** — technical SEO, semantic markup and rendering strategy.
+- **Maintainability wins** — modular systems that teams can confidently extend.
+
+## `05 /` LET'S BUILD SOMETHING EXCEPTIONAL
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digital.dignisys.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/dignisysdigital)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dignisysdigital/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/dignisysdigital/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DignisysDigital)
+<img width="100%" src="./assets/dignisys-footer.svg" alt="Let's engineer your next big idea" />
 
-**Have a project in mind?** [Explore Dignisys Digital](https://digital.dignisys.com/)
+<a href="https://digital.dignisys.com/"><img src="https://img.shields.io/badge/START_A_CONVERSATION-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=06111F" /></a>
+<a href="https://www.linkedin.com/company/dignisysdigital"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/DignisysDigital"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://www.facebook.com/dignisysdigital/"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-<sub>© 2026 Dignisys Digital · Built with care and curiosity.</sub>
+<br/><br/>
+
+<sub>© 2026 Dignisys Digital · Crafted with purpose. Engineered for impact.</sub>
 
 </div>
