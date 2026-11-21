@@ -1,32 +1,29 @@
 <div align="center">
 
-<a href="https://dignisys.com/"><img src="./assets/brand-logo.svg" alt="Dignisys official logo" width="230"></a>
+<a href="https://dignisys.com/"><img src="./assets/brand-logo.svg" width="200" alt="Dignisys official logo"></a>
 
 <br><br>
 
-<img src="./assets/brand-hero-v3.svg" alt="Dignisys — Built for scale, designed for impact" width="100%">
+<img src="./assets/apple-hero.svg" width="100%" alt="Dignisys — Make technology matter">
 
-<br>
+<br><br>
 
-**PRODUCT ENGINEERING STUDIO · INDIA**
+**Thoughtful products. Beautiful experiences. Dependable engineering.**
 
-### Apps, software and websites, built around how your business works.
+<sub>Product engineering & digital studio · Mumbai · Chandigarh · Worldwide</sub>
 
-We plan, design, build and run digital products for growing companies.
+<br><br>
 
-<a href="https://dignisys.com/contact/"><img src="https://img.shields.io/badge/START%20A%20PROJECT-FF4C00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Start a project"></a>
-<a href="https://dignisys.com/solutions/"><img src="https://img.shields.io/badge/EXPLORE%2012%20SERVICES-242427?style=for-the-badge" alt="Explore services"></a>
-<a href="https://dignisys.com/how-we-work/"><img src="https://img.shields.io/badge/HOW%20WE%20WORK-242427?style=for-the-badge" alt="How we work"></a>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=19&duration=3500&pause=950&color=FF4C00&center=true&vCenter=true&width=800&height=45&lines=Plan.+Design.+Build.+Run.;Useful+on+day+one.+Maintainable+in+year+three.;Clear+decisions.+Visible+progress.+No+surprises." alt="Dignisys animated introduction">
+<a href="https://dignisys.com/contact/"><img src="https://img.shields.io/badge/Start%20a%20project-171717?style=for-the-badge&logoColor=white" alt="Start a project"></a>
+<a href="https://dignisys.com/solutions/"><img src="https://img.shields.io/badge/Explore%20services-f1f1f1?style=for-the-badge&labelColor=f1f1f1&color=f1f1f1" alt="Explore services"></a>
 
 </div>
 
+<br>
+
 ---
 
-## 01 / About Dignisys
+## The studio
 
 <table><tr><td width="55%" valign="top">
 
@@ -59,13 +56,13 @@ We focus on the real-world details that matter after launch: weak network connec
 
 ---
 
-## 02 / Twelve services. One connected team.
+## Everything you need to build what’s next
 
 Start with the capability you need now, then add design, development, growth or support as the product evolves.
 
-<div align="center"><img src="./assets/capabilities-v3.svg" alt="Dignisys service capabilities" width="100%"></div>
 
-### A. Product engineering
+
+### Product engineering · 01—04
 
 <table>
 <tr><td width="50%" valign="top">
@@ -100,7 +97,7 @@ Subscription software and multi-tenant platforms with account onboarding, permis
 </td></tr>
 </table>
 
-### B. Websites and content management
+### Websites & content · 05—08
 
 <table>
 <tr><td width="50%" valign="top">
@@ -135,7 +132,7 @@ Design-led landing pages, brand websites and product-launch experiences with pol
 </td></tr>
 </table>
 
-### C. Design, visibility and long-term growth
+### Design & growth · 09—12
 
 <table>
 <tr><td width="50%" valign="top">
@@ -174,7 +171,7 @@ Application and website updates, dependency and security reviews, monitoring, QA
 
 ---
 
-## 03 / How we work
+## Built with clarity
 
 ### Clear decisions. Visible progress. No surprises.
 
@@ -219,7 +216,7 @@ Scope changes are logged, assessed for their cost and schedule impact, and appro
 
 ---
 
-## 04 / Three ways to work with Dignisys
+## A partnership that fits
 
 | Engagement | Best suited for | How it works |
 |---|---|---|
@@ -235,7 +232,7 @@ Scope changes are logged, assessed for their cost and schedule impact, and appro
 
 ---
 
-## 05 / Industries we understand
+## Designed for the real world
 
 <table>
 <tr><td width="33%" valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-logistics-1024.webp" alt="Logistics and supply chain"><br><b>Logistics & supply chain</b><br><sub>Dispatch, tracking, warehouse and driver tools designed for challenging networks.</sub></td><td width="33%" valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-maritime-1024.webp" alt="Maritime and fleet"><br><b>Maritime & fleet</b><br><sub>Reliable crew, vessel, fleet and operations systems.</sub></td><td width="33%" valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-marketplaces-1024.webp" alt="Digital marketplaces"><br><b>Digital marketplaces</b><br><sub>Two-sided platforms, payments, onboarding and trust workflows.</sub></td></tr>
@@ -244,7 +241,7 @@ Scope changes are logged, assessed for their cost and schedule impact, and appro
 
 ---
 
-## 06 / Technology ecosystem
+## The tools behind the craft
 
 We choose technology around product requirements, existing systems, team skills and maintainability—not trends alone.
 
@@ -280,7 +277,7 @@ We choose technology around product requirements, existing systems, team skills 
 
 ---
 
-## 07 / What working together looks like
+## A better way to collaborate
 
 - **Transparent communication:** a shared project board, weekly written progress reports and working demos every two weeks during delivery.
 - **Controlled scope:** clear estimates, documented trade-offs and written approval for changes.
@@ -291,7 +288,7 @@ We choose technology around product requirements, existing systems, team skills 
 
 ---
 
-## 08 / Insights from the build
+## Ideas worth sharing
 
 Practical guidance from the people doing the design and engineering.
 
@@ -304,7 +301,7 @@ Practical guidance from the people doing the design and engineering.
 
 ---
 
-## 09 / Frequently asked questions
+## Good questions, clear answers
 
 <details><summary><b>Can we start with just an idea?</b></summary><br>Yes. A discovery sprint helps define the problem, validate priorities, explore prototypes and produce a build-ready scope and estimate.</details>
 
@@ -324,7 +321,7 @@ Practical guidance from the people doing the design and engineering.
 
 ---
 
-## 10 / Let's build something useful
+## Your next chapter starts here
 
 <table><tr><td width="58%" valign="top">
 
@@ -347,7 +344,7 @@ Tell us what you're working on, who it serves, and what you need to change. We w
 
 <div align="center">
 
-<img src="./assets/contact-v3.svg" width="100%" alt="Let's build what comes next">
+<img src="./assets/apple-cta.svg" width="100%" alt="Let’s make it happen">
 
 <br>
 
