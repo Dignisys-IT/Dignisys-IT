@@ -2,17 +2,20 @@
 
 <a href="https://dignisys.com/"><img src="./assets/brand-logo.svg" width="200" alt="Dignisys official logo"></a>
 
-<br><br>
+<br>
+<br>
 
-<img src="./assets/apple-hero.svg" width="100%" alt="Dignisys — Make technology matter">
+<img src="./assets/apple-hero-editorial.svg" width="100%" alt="Dignisys — Make technology matter">
 
-<br><br>
+<br>
+<br>
 
 **Thoughtful products. Beautiful experiences. Dependable engineering.**
 
 <sub>Product engineering & digital studio · Mumbai · Chandigarh · Worldwide</sub>
 
-<br><br>
+<br>
+<br>
 
 <a href="https://dignisys.com/contact/"><img src="https://img.shields.io/badge/Start%20a%20project-171717?style=for-the-badge&logoColor=white" alt="Start a project"></a>
 <a href="https://dignisys.com/solutions/"><img src="https://img.shields.io/badge/Explore%20services-f1f1f1?style=for-the-badge&labelColor=f1f1f1&color=f1f1f1" alt="Explore services"></a>
@@ -21,11 +24,15 @@
 
 <br>
 
+<br>
+
 ---
 
-## The studio
+<br>
 
-<table><tr><td width="55%" valign="top">
+## A studio for what’s next.
+
+<table cellpadding="14"><tr><td width="55%" valign="top">
 
 **A product studio for companies that need technology to work.**
 
@@ -54,9 +61,13 @@ We focus on the real-world details that matter after launch: weak network connec
 | **Build for the next team** | Deliver maintainable code, tests, documentation and accessible interfaces. |
 | **Plan beyond launch** | Think about support, changes, performance and ownership from the start. |
 
+<br>
+
 ---
 
-## Everything you need to build what’s next
+<br>
+
+## One team. Every possibility.
 
 Start with the capability you need now, then add design, development, growth or support as the product evolves.
 
@@ -64,7 +75,7 @@ Start with the capability you need now, then add design, development, growth or 
 
 ### Product engineering · 01—04
 
-<table>
+<table cellpadding="14">
 <tr><td width="50%" valign="top">
 
 <a href="https://dignisys.com/solutions/product-development/"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/svc-product-1024.webp" alt="Product development" width="100%"></a>
@@ -99,7 +110,7 @@ Subscription software and multi-tenant platforms with account onboarding, permis
 
 ### Websites & content · 05—08
 
-<table>
+<table cellpadding="14">
 <tr><td width="50%" valign="top">
 
 <a href="https://dignisys.com/solutions/websites-and-cms/"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/svc-websites-1024.webp" alt="Websites and CMS" width="100%"></a>
@@ -134,7 +145,7 @@ Design-led landing pages, brand websites and product-launch experiences with pol
 
 ### Design & growth · 09—12
 
-<table>
+<table cellpadding="14">
 <tr><td width="50%" valign="top">
 
 <a href="https://dignisys.com/solutions/ui-ux-design/"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/svc-uiux-1024.webp" alt="UI UX design" width="100%"></a>
@@ -169,15 +180,19 @@ Application and website updates, dependency and security reviews, monitoring, QA
 
 **Explore the complete service catalogue:** [dignisys.com/solutions](https://dignisys.com/solutions/)
 
+<br>
+
 ---
 
-## Built with clarity
+<br>
+
+## Clarity, from day one.
 
 ### Clear decisions. Visible progress. No surprises.
 
 Four stages guide delivery from the first conversation to post-launch improvement.
 
-<table><tr><td width="56%" valign="top">
+<table cellpadding="14"><tr><td width="56%" valign="top">
 
 **01 — Understand the problem**
 
@@ -214,9 +229,13 @@ Scope changes are logged, assessed for their cost and schedule impact, and appro
 
 [Read our full delivery approach →](https://dignisys.com/how-we-work/)
 
+<br>
+
 ---
 
-## A partnership that fits
+<br>
+
+## Work together. Your way.
 
 | Engagement | Best suited for | How it works |
 |---|---|---|
@@ -230,18 +249,26 @@ Scope changes are logged, assessed for their cost and schedule impact, and appro
 <a href="https://dignisys.com/contact/?engagement=ongoing-product-team#start"><img src="https://img.shields.io/badge/ONGOING%20TEAM-242427?style=for-the-badge" alt="Ongoing product team"></a>
 </div>
 
+<br>
+
 ---
 
-## Designed for the real world
+<br>
 
-<table>
+## Built for the real world.
+
+<table cellpadding="10">
 <tr><td width="33%" valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-logistics-1024.webp" alt="Logistics and supply chain"><br><b>Logistics & supply chain</b><br><sub>Dispatch, tracking, warehouse and driver tools designed for challenging networks.</sub></td><td width="33%" valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-maritime-1024.webp" alt="Maritime and fleet"><br><b>Maritime & fleet</b><br><sub>Reliable crew, vessel, fleet and operations systems.</sub></td><td width="33%" valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-marketplaces-1024.webp" alt="Digital marketplaces"><br><b>Digital marketplaces</b><br><sub>Two-sided platforms, payments, onboarding and trust workflows.</sub></td></tr>
 <tr><td valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-public-1024.webp" alt="Public sector"><br><b>Public sector</b><br><sub>Accessible citizen services and procurement-conscious internal tools.</sub></td><td valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-education-1024.webp" alt="Education"><br><b>Education & learning</b><br><sub>Learning platforms, training portals and course-management tools.</sub></td><td valign="top"><img src="https://dignisys.com/wp-content/themes/dignisys-next/assets/img/photos/ind-immersive-1024.webp" alt="Immersive technology"><br><b>Immersive & creative tech</b><br><sub>Interactive experiences, AR and VR supported by dependable engineering.</sub></td></tr>
 </table>
 
+<br>
+
 ---
 
-## The tools behind the craft
+<br>
+
+## Technology with purpose.
 
 We choose technology around product requirements, existing systems, team skills and maintainability—not trends alone.
 
@@ -251,19 +278,22 @@ We choose technology around product requirements, existing systems, team skills 
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=light" alt="React Next.js TypeScript JavaScript HTML CSS Tailwind">
 
-<br><br>
+<br>
+<br>
 
 **MOBILE**
 
 <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin&theme=light" alt="Flutter Swift Kotlin">
 
-<br><br>
+<br>
+<br>
 
 **BACKEND & DATA**
 
 <img src="https://skillicons.dev/icons?i=nodejs,laravel,python,postgres&theme=light" alt="Node.js Laravel Python PostgreSQL">
 
-<br><br>
+<br>
+<br>
 
 **CLOUD, CMS & DESIGN**
 
@@ -275,9 +305,13 @@ We choose technology around product requirements, existing systems, team skills 
 
 </div>
 
+<br>
+
 ---
 
-## A better way to collaborate
+<br>
+
+## Details make the difference.
 
 - **Transparent communication:** a shared project board, weekly written progress reports and working demos every two weeks during delivery.
 - **Controlled scope:** clear estimates, documented trade-offs and written approval for changes.
@@ -286,9 +320,13 @@ We choose technology around product requirements, existing systems, team skills 
 - **Confidentiality:** mutual NDAs available before sensitive project details are shared.
 - **After launch:** choose continued product development, maintenance and support, or a documented handover to an internal team.
 
+<br>
+
 ---
 
-## Ideas worth sharing
+<br>
+
+## Thinking out loud.
 
 Practical guidance from the people doing the design and engineering.
 
@@ -299,9 +337,13 @@ Practical guidance from the people doing the design and engineering.
 | **Product strategy** | [Your MVP needs a boundary, not another feature](https://dignisys.com/insights/what-to-build-in-your-mvp/) |
 | **All articles** | [Explore Dignisys insights](https://dignisys.com/insights/) |
 
+<br>
+
 ---
 
-## Good questions, clear answers
+<br>
+
+## The things you want to know.
 
 <details><summary><b>Can we start with just an idea?</b></summary><br>Yes. A discovery sprint helps define the problem, validate priorities, explore prototypes and produce a build-ready scope and estimate.</details>
 
@@ -319,11 +361,15 @@ Practical guidance from the people doing the design and engineering.
 
 [More answers on our website →](https://dignisys.com/)
 
+<br>
+
 ---
 
-## Your next chapter starts here
+<br>
 
-<table><tr><td width="58%" valign="top">
+## What will we make together?
+
+<table cellpadding="14"><tr><td width="58%" valign="top">
 
 ### Have something to build or fix?
 
@@ -354,7 +400,8 @@ Tell us what you're working on, who it serves, and what you need to change. We w
 <a href="https://www.facebook.com/dignisysdigital/"><img src="https://img.shields.io/badge/FACEBOOK-242427?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://x.com/DignisysDigital"><img src="https://img.shields.io/badge/X-242427?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 
-<br><br>
+<br>
+<br>
 
 <sub>© 2026 Dignisys Digital · Product engineering and digital experiences.</sub>
 
